@@ -1,4 +1,16 @@
 # I am learning Git and GitHub.
 
-My first Git and GitHub project
+\## What I am learning
+
+
+
+\- Git basics
+
+\- GitHub
+
+\- Branches
+
+\- Commits
+
+\- Pull Requests
 
